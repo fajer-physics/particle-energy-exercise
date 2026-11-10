@@ -1,0 +1,5 @@
+ Raising the threshold from 50 GeV to 70 GeV reduced the number of selected values from 5 to 3 because fewer particles have energies above a higher cut. 
+ The histogram of the original data does not depend on the threshold so only the red line moves and the bars stay the same.
+ With 5 bins (20 GeV wide) the histogram is coarse and shows only the overall spread of energies while 20 bins (5 GeV wide) show more detail.
+ With only ten values, the 20-bin histogram is mostly empty bins with one or zero entries so its shape is dominated by statistical noise rather than a real distribution.
+With thousands of events, the fine binning would give a smooth, meaningful shape and the choice of binning would matter much less than it does here
